@@ -1,7 +1,8 @@
-
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
+[Bb]uild/
+[Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
 [Mm]emoryCaptures/
@@ -11,19 +12,10 @@
 .idea/
 .vscode/
 
-.gradle/
-ExportedObj/
-Build/
-Builds/
-
-*.csproj
-*.sln
-*.suo
-*.user
-*.userprefs
-*.pidb
-*.booproj
-*.svclog
-
 .DS_Store
 Thumbs.db
+
+# Unity-generated IDE files
+*.csproj
+*.sln
+*.slnx
